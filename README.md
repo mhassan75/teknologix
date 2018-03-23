@@ -1,0 +1,2 @@
+# teknologix
+bitcoin minining
